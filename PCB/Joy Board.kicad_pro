@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 1.0,
+          "height": 1.8,
+          "width": 1.8
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -117,7 +117,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.17,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Split keyboard.kicad_pro",
+    "filename": "Joy Board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "DXF/right",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Joy Board right.step",
       "svg": "",
       "vrml": ""
     },
@@ -611,16 +611,8 @@
   },
   "sheets": [
     [
-      "6319e5e1-316f-49bb-9e4d-fb2003a9e203",
+      "c032f828-df51-4fca-9920-6c5180534e56",
       "Root"
-    ],
-    [
-      "b4a35b83-e5f6-4868-a7fc-ab987bf41c6f",
-      "left"
-    ],
-    [
-      "4af2fb43-8709-4356-98d1-4d64f921639c",
-      "real r"
     ]
   ],
   "text_variables": {}

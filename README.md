@@ -12,19 +12,15 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 
 ###  Thumb Joystick (Left Side)
  
-##  Schematics
+##  Schematic
 
-### Schematic 1
-![Schematic 1](Assets/S1.png)
-
-### Schematic 2
-![Schematic 2](Assets/S2.png)
+![Alt](Assets/S.png)
 
 ---
 
-##  PCB Layout
+##  PCB 
 
-![PCB](Assets/PCB.png)
+![Alt](Assets/PCB.png)
 
 ---
 
