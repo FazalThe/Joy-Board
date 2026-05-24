@@ -8,13 +8,10 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 
 ##  Features
 
-###  Split Ergonomic Layout
-
-###  Thumb Joystick (Left Side)
-
-### ZMK Studio 
- 
-##  Schematic
+-  Split Ergonomic Layout
+- Thumb Joystick (Left Side)
+- ZMK Studio 
+- Schematic
 
 ![Alt](Assets/S.png)
 
@@ -25,6 +22,10 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 ![Alt](Assets/PCB.png)
 
 ---
+
+## Case
+
+![Alt](Assets/Case.png)
 
 ## BOM
 - 2x Pro Micro nRF52840
