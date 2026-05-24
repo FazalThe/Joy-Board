@@ -11,6 +11,8 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 ###  Split Ergonomic Layout
 
 ###  Thumb Joystick (Left Side)
+
+### ZMK Studio 
  
 ##  Schematic
 
@@ -27,6 +29,11 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 ## BOM
 - 2x Pro Micro nRF52840
 - 50 x 1N5819 SMD Diodes
-- 50 x MX-Style switches
+- 50 x MX-Style switches (and keycaps)
 - 1 x COM-09032
+- 2 x JST PH 2pin
+- 8 x 10k ohm 0805 resistor
+- 4 x 22k ohm 0805 resistor
+- 4 x 2.4k ohm 0805 resistor
+- 4 x LM339 - SOIC14
 ---
