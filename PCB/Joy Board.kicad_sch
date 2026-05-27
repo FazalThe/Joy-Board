@@ -6110,7 +6110,7 @@
 				)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "2.4k"
 			(at 95.25 175.26 90)
 			(effects
 				(font
@@ -9240,7 +9240,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "22k"
 			(at 82.55 173.9899 0)
 			(effects
 				(font
@@ -11084,7 +11084,7 @@
 				)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "2.4k"
 			(at 154.94 207.01 90)
 			(effects
 				(font
@@ -11375,7 +11375,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 72.39 222.2499 0)
 			(effects
 				(font
@@ -12671,7 +12671,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 132.08 196.85 90)
 			(effects
 				(font
@@ -12739,7 +12739,7 @@
 				)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "2.4k"
 			(at 53.34 198.12 90)
 			(effects
 				(font
@@ -13603,7 +13603,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 72.39 165.1 90)
 			(effects
 				(font
@@ -14335,7 +14335,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 40.64 198.1199 0)
 			(effects
 				(font
@@ -14404,7 +14404,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "22k"
 			(at 62.23 213.36 90)
 			(effects
 				(font
@@ -16485,7 +16485,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "22k"
 			(at 142.24 205.7399 0)
 			(effects
 				(font
@@ -16844,7 +16844,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "22k"
 			(at 30.48 189.23 90)
 			(effects
 				(font
@@ -16999,7 +16999,7 @@
 				)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "2.4k"
 			(at 85.09 226.06 90)
 			(effects
 				(font
