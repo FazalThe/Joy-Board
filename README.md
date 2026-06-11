@@ -31,10 +31,16 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 - 2x Pro Micro nRF52840
 - 50 x 1N5819 SMD Diodes
 - 50 x MX-Style switches (and keycaps)
-- 1 x COM-09032
-- 2 x JST PH 2pin
-- 8 x 10k ohm 0805 resistor
-- 4 x 22k ohm 0805 resistor
-- 4 x 2.4k ohm 0805 resistor
-- 4 x LM339 - SOIC14
+- 1  x COM-09032
+- 2  x JST PH 2pin
+- 8  x 10k ohm 0805 resistor
+- 4  x 22k ohm 0805 resistor
+- 4  x 2.4k ohm 0805 resistor
+- 4  x LM339 - SOIC14
+- 2  x 100-400 MaH li-po battery
+- 4  x 4mm M2 Heatset insert
+- 14 x 6mm M2 Heatset insert
+- 4  x 6mm M2 Screws
+- 14 x 8mm M2 Screws
+
 ---
