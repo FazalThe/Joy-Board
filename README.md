@@ -11,7 +11,10 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 -  Split Ergonomic Layout
 - Thumb Joystick (Left Side)
 - ZMK Studio 
-- Schematic
+
+---
+
+## Schematic
 
 ![Alt](Assets/S.png)
 
