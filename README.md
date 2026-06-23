@@ -47,3 +47,7 @@ A custom-built split keyboard with a built in thumb joystick on the left side, r
 - 14 x 8mm M2 Screws
 
 ---
+
+## Credits
+
+- Cherry MX keycap 3D model from [GrabCAD](https://grabcad.com/library/cherry-mx-keycaps-1).
